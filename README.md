@@ -7,7 +7,7 @@
 ·      Duties: Date, time, calendar event, on/off switch for the whole system, drag and drop
  
 *Gabriel Costanzo*  
-·      Duties: twitter feed, weather forecast (responsible for all the APIs)
+·      Duties: news api, weather forecast api (responsible for all the APIs)
 
 *Eduardo Lozano*    
 ·      Duties: music controls/display, light controls settings
@@ -24,7 +24,7 @@
 ![](p1.group14.png)
 **Main Functions:**
 
-time, date, schedule/calendar, current weather, weekly weather, health app (sleep, running etc.), reminders/notifications, twitter feed, music controls, lighting controls, on/off switch
+time, date, schedule/calendar, current weather, weekly weather, health app (sleep, steps etc.), reminders/notifications, news feed, music controls, lighting controls, on/off switch
 
 **Implementation:**
 
@@ -32,7 +32,7 @@ We have divided the functions among our group members to develop individually. W
 
 **Future Plans:**  
 
-We will continue to make adjustments where necessary as we begin merging our functions. We need to figure out a grid to snap objects to and determine acceptable states for the mirror in terms of which functions can be on at the same time.
+We will continue to make adjustments where necessary as we begin merging our functions.
 
 **Demo GIF:**  
 ![](p1.group14.gif)
