@@ -34,5 +34,19 @@ We have divided the functions among our group members to develop individually. W
 
 We will continue to make adjustments where necessary as we begin merging our functions.
 
+**Final Functionality:**  
+
+Date and time are accurate and updated continuously
+The calendar is hardcoded
+The weather panel uses an API to get accurate and continious weather updates including the current temperature, high, low, and five day forecast
+The news panel uses an API to get accurate and continous news updates and will dipslay a short description of the article when you hover the mouse over the image
+The music is hardcoded with three different songs and allows for pause and play, next and previous song, volume controls, and will dispaly the appropriate album art
+The lighting controls panel includes RGB sliders to adjust the color of the light and the brightness slider allows for dimming the light which appears as a border around the mirror
+The reminders are hardcoded but there are three different reminders which cycle every twenty seconds
+The health data is hardcoded
+The on and off button disables or enables everything but the clock which we believed to be the best "default" screen
+Drag and drop is available for every item except for the news, since it works best with the article descriptions next to the images, and the reminders and the health panels
+We also added a light blue/silver tint over the webcam to simulate the look of a mirror
+
 **Demo GIF:**  
 ![](p1.group14.gif)
