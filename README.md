@@ -17,8 +17,8 @@
 
 **Links:**  
 
-[Github Repo](https://github.com/BlaineSieck/Smart-Mirror) (e.g. https://github.com/BlaineSieck/Smart-Mirror)  
-[Presentation Page](https://blainesieck.github.io/Smart-Mirror/.) (e.g. https://blainesieck.github.io/Smart-Mirror/., contains content of this README)
+[Github Repo](https://github.com/BlaineSieck/Smart-Mirror-HCI) (e.g. https://github.com/BlaineSieck/Smart-Mirror-HCI)  
+[Presentation Page](https://blainesieck.github.io/Smart-Mirror-HCI/.) (e.g. https://blainesieck.github.io/Smart-Mirror-HCI/., contains content of this README)
  
 **Sketch Design:**
 ![](p1.group14.png)
